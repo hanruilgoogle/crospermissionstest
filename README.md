@@ -117,4 +117,4 @@ Contact Us
 
 If you have any questions about this Privacy Policy, please contact us:
 
-By visiting this page on our website: https://sites.google.com/apnohe.com/permissions-testapp-policy/home
+By visiting this page on our website: https://github.com/hanruilgoogle/crospermissionstest/blob/master/README.md
